@@ -17,7 +17,7 @@ This is a [React](https://es.reactjs.org/) application developed in the [Vite](h
 - [PostCSS](https://postcss.org/) - A tool for transforming CSS with JavaScript.
 - [Node.js](https://nodejs.org/) - JavaScript runtime environment.
 
-## :rocket: Installation and Production
+## :rocket: Installation and production
 
 [Vite](https://main.vitejs.dev/guide/#scaffolding-your-first-vite-project) requires [Node.js](https://nodejs.org/) version 14.18+, 16+.
 
