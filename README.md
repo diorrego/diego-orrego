@@ -12,7 +12,7 @@ This is a [React](https://es.reactjs.org/) application developed in the [Vite](h
 
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
 - [Vite](https://main.vitejs.dev/) - Build tool for modern web projects.
-- [Typescript](https://www.typescriptlang.org/) - TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
+- [Typescript](https://www.typescriptlang.org/) - Strongly typed programming language that builds on JavaScript.
 - [Tailwindcss](https://tailwindcss.com/) - CSS framework.
 - [PostCSS](https://postcss.org/) - A tool for transforming CSS with JavaScript.
 - [Node.js](https://nodejs.org/) - JavaScript runtime environment.
