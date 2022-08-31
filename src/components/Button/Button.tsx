@@ -1,10 +1,12 @@
 import React from 'react';
-import Text from '../Text';
 
-const Button = () => {
+type ButtonProps = {
+  children: string;
+}
 
+const Button = ({children}: ButtonProps) => {
   return (
-    <button></button>
+    <button>{children}</button>
   );
 };
 
